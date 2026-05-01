@@ -1,0 +1,1668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260501213044PQ7KHX</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260501213044KRBX7A</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>ANALIZANDO LA LETRA PEQUEÑA, ¡ESTÁS CONTRATADO!</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Los Contratos de Trabajo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Natalia Martos Redruejo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Los contratos de trabajo se agrupan actualmente en cuatro modelos principales tras las últimas reformas. Para conocerlos a fondo es fundamental analizar no solo sus nombres sino las condiciones que definen la relación entre la empresa y el trabajador.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777633464252</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-momt2fap-4r5jmxz5b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Empezamos. Autoría, descripción, metadatos..</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Empezamos. Autoría, descripción, metadatos..</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Antes de Empezar. Datos básicos..</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Empezamos. Autoría, descripción, metadatos..</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momt2fap-4r5jmxz5b</odePageId>
+      <odeBlockId>block-1777486913538-h46mprvfq</odeBlockId>
+      <blockName>Antes de empezar. Datos básicos. Autoría. Descripción. Licencia de uso</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momt2fap-4r5jmxz5b</odePageId>
+          <odeBlockId>block-1777486913538-h46mprvfq</odeBlockId>
+          <odeIdeviceId>idevice-1777486913535-4o52m0x66</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>
+<h6>Información general sobre este recurso educativo</h6>
+</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">ANALIZANDO LA LETRA PEQUEÑA, ¡ESTÁS CONTRATADO!</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Los contratos de trabajo se agrupan actualmente en cuatro modelos principales tras las últimas reformas. Para conocerlos a fondo es fundamental analizar no solo sus nombres sino las condiciones que definen la relación entre la empresa y el trabajador.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Natalia Martos Redruejo</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107537;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momt2faw-574ktdjxo</odePageId>
+  <odeParentPageId>page-momt2fap-4r5jmxz5b</odeParentPageId>
+  <pageName>Nos presentamos...</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nos presentamos...</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nos presentamos...</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Nos presentamos...</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momt2faw-574ktdjxo</odePageId>
+      <odeBlockId>block-1777485441318-dht5oc532</odeBlockId>
+      <blockName>Nos presentamos</blockName>
+      <iconName>english</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momt2faw-574ktdjxo</odePageId>
+          <odeBlockId>block-1777485441318-dht5oc532</odeBlockId>
+          <odeIdeviceId>idevice-1777485441317-l61dghl3o</odeIdeviceId>
+          <odeIdeviceTypeName>casestudy</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-casestudy-container">
+  
+        <div class="caseStudyContent">            
+            <div class="CSP-Info mb-3">
+                
+            <dl>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+            </dl>
+            </div>
+            <div class="CSP-History mb-3" >
+                <p><a href="https://www.canva.com/design/DAHGdE-t9fM/SO_cRr0C_OY2b8tM7m3e9Q/edit" title="">https://www.canva.com/design/DAHGdE-t9fM/SO_cRr0C_OY2b8tM7m3e9Q/edit</a></p>
+            </div>
+            <div class="CSP-Activities mb-3">
+                
+                <div class="CSP-ActivityDiv ">
+                    <div class="CSP-Activity mb-3">
+                        <p style="text-align: justify;">En esta presentación de la Unidad Didáctica " Analizando la letra pequeña, estás contratado!", definimos los objetivos y las características de la unidad.</p>
+                    </div>
+                    
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        
+                    </div>
+                </div>
+            
+            </div>
+        </div>
+    
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1777485441317-l61dghl3o","typeGame":"Case study","history":"<p><a href=\"https://www.canva.com/design/DAHGdE-t9fM/SO_cRr0C_OY2b8tM7m3e9Q/edit\" title=\"\">https://www.canva.com/design/DAHGdE-t9fM/SO_cRr0C_OY2b8tM7m3e9Q/edit</a></p>","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"grupo clase","activities":[{"activity":"<p style=\"text-align: justify;\">En esta presentación de la Unidad Didáctica \" Analizando la letra pequeña, estás contratado!\", definimos los objetivos y las características de la unidad.</p>","feedback":"","buttonCaption":"Mostrar retroalimentación"}]}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momt2fay-tfexgnjen</odePageId>
+  <odeParentPageId>page-momt2fap-4r5jmxz5b</odeParentPageId>
+  <pageName>La temporalidad. La línea temporal, tarea inicial</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La temporalidad. La línea temporal, tarea inicial</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La temporalidad. La línea temporal, tarea inicial</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>La temporalidad. La línea temporal, tarea inicial</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momt2fay-tfexgnjen</odePageId>
+      <odeBlockId>block-1777565316825-hl8ue31oc</odeBlockId>
+      <blockName>Línea Temporal. Las primeras actividades a realizar serán las tareas 1 y 2</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momt2fay-tfexgnjen</odePageId>
+          <odeBlockId>block-1777565316825-hl8ue31oc</odeBlockId>
+          <odeIdeviceId>idevice-1777565316820-fdwl9bbqj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Fase 1 temporalidad.PNG" title="Sesión 1_ Actividades" width="489" height="503" alt="Línea temporal_ Actividades de la Sesión 1" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777565316820-fdwl9bbqj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Fase 1 temporalidad.PNG\" title=\"Sesión 1_ Actividades\" width=\"489\" height=\"503\" alt=\"Línea temporal_ Actividades de la Sesión 1\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momt2fb0-hdcl96hoj</odePageId>
+  <odeParentPageId>page-momt2fap-4r5jmxz5b</odeParentPageId>
+  <pageName>Línea temporal. Actividades de desarrollo</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal. Actividades de desarrollo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal. Actividades de desarrollo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Línea temporal. Actividades de desarrollo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momt2fb0-hdcl96hoj</odePageId>
+      <odeBlockId>block-1777565781133-nrvglbbh0</odeBlockId>
+      <blockName>Continuaremos con la realización de la tarea 3</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momt2fb0-hdcl96hoj</odePageId>
+          <odeBlockId>block-1777565781133-nrvglbbh0</odeBlockId>
+          <odeIdeviceId>idevice-1777565781131-or5r40440</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Temporalidad sesion 2 y 3.PNG" width="493" height="317" alt="La temporalidad, fase de desarrollo" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777565781131-or5r40440","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Temporalidad sesion 2 y 3.PNG\" width=\"493\" height=\"317\" alt=\"La temporalidad, fase de desarrollo\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momt2fb2-eb0yvzf83</odePageId>
+  <odeParentPageId>page-momt2fap-4r5jmxz5b</odeParentPageId>
+  <pageName>Temporalidad. El producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalidad. El producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalidad. El producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Temporalidad. El producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momt2fb2-eb0yvzf83</odePageId>
+      <odeBlockId>block-1777566064823-g4pfi51xr</odeBlockId>
+      <blockName>Realizando la tarea 4 conseguirás el RETO, el producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momt2fb2-eb0yvzf83</odePageId>
+          <odeBlockId>block-1777566064823-g4pfi51xr</odeBlockId>
+          <odeIdeviceId>idevice-1777566064822-9wbitezmy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><img src="{{context_path}}/content/resources/Sesion 4 temporalidad.PNG" title="Temporalidad tarea 4" width="514" height="434" alt="Temporalidad fase 4" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777566064822-9wbitezmy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/Sesion 4 temporalidad.PNG\" title=\"Temporalidad tarea 4\" width=\"514\" height=\"434\" alt=\"Temporalidad fase 4\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momt2fb4-rybi8qrsk</odePageId>
+  <odeParentPageId>page-momt2fap-4r5jmxz5b</odeParentPageId>
+  <pageName>El Reto ¡ Nuestro producto final!</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El Reto ¡ Nuestro producto final!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El Reto ¡ Nuestro producto final!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>El Reto ¡ Nuestro producto final!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momt2fb4-rybi8qrsk</odePageId>
+      <odeBlockId>block-1777543009280-936q12t65</odeBlockId>
+      <blockName>El producto final, el Reto a conseguir</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momt2fb4-rybi8qrsk</odePageId>
+          <odeBlockId>block-1777543009280-936q12t65</odeBlockId>
+          <odeIdeviceId>idevice-1777543009279-3nkii3rzy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>45 minutos</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p><strong><img src="{{context_path}}/content/resources/Foto trabajador mesa.PNG" title="El Reto" width="227" height="211" alt="El producto final" style="float: right;" /></strong></p>
+<p style="text-align: justify;">Realizarás un <strong>CASO PRÁCTICO </strong>" Analizando la letra pequeña, ¡Estás contratado! en el que serás capaz de seleccionar y cumplimentar el contrato de trabajo que mejor se adapte a las necesidades de la empresa y del trabajador. </p>
+<p style="text-align: justify;">Utilizando Genially presentarás tu trabajo al resto de los compañeros.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777543009279-3nkii3rzy","textInfoDurationInput":"45 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>45 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p><strong><img src=\"{{context_path}}/content/resources/Foto trabajador mesa.PNG\" title=\"El Reto\" width=\"227\" height=\"211\" alt=\"El producto final\" style=\"float: right;\" /></strong></p>\n<p style=\"text-align: justify;\">Realizarás un <strong>CASO PRÁCTICO </strong>\" Analizando la letra pequeña, ¡Estás contratado! en el que serás capaz de seleccionar y cumplimentar el contrato de trabajo que mejor se adapte a las necesidades de la empresa y del trabajador. </p>\n<p style=\"text-align: justify;\">Utilizando Genially presentarás tu trabajo al resto de los compañeros.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momt2fb6-pdl529emz</odePageId>
+  <odeParentPageId>page-momt2fap-4r5jmxz5b</odeParentPageId>
+  <pageName>La protección de datos, aspectos que tengo que tener en cuenta</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La protección de datos, aspectos que tengo que tener en cuenta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La protección de datos, aspectos que tengo que tener en cuenta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>La protección de datos, aspectos que tengo que tener en cuenta</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momt2fb6-pdl529emz</odePageId>
+      <odeBlockId>block-1777540782703-hbo4lub4r</odeBlockId>
+      <blockName>Protegemos nuestros datos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momt2fb6-pdl529emz</odePageId>
+          <odeBlockId>block-1777540782703-hbo4lub4r</odeBlockId>
+          <odeIdeviceId>idevice-1777540782697-6ayktanl2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1><img src="{{context_path}}/content/resources/1 prevencion.PNG" title="La importancia de la protección de datos" width="412" height="439" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></h1>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777540782697-6ayktanl2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1><img src=\"{{context_path}}/content/resources/1 prevencion.PNG\" title=\"La importancia de la protección de datos\" width=\"412\" height=\"439\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></h1>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momt2fb7-805vs0hqx</odePageId>
+  <odeParentPageId>page-momt2fb6-pdl529emz</odeParentPageId>
+  <pageName>Protege tus datos personales, y ten el cuenta que...</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protege tus datos personales, y ten el cuenta que...</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protege tus datos personales, y ten el cuenta que...</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Protege tus datos personales, y ten el cuenta que...</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momt2fb7-805vs0hqx</odePageId>
+      <odeBlockId>block-1777541929855-uimfy61jd</odeBlockId>
+      <blockName>Protegemos nuestra información personal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momt2fb7-805vs0hqx</odePageId>
+          <odeBlockId>block-1777541929855-uimfy61jd</odeBlockId>
+          <odeIdeviceId>idevice-1777541929853-7xwyy5hkw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><img src="{{context_path}}/content/resources/prevencion 2.PNG" title="Protejo mis datos personales" width="455" height="436" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777541929853-7xwyy5hkw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/prevencion 2.PNG\" title=\"Protejo mis datos personales\" width=\"455\" height=\"436\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777634937683-ptb7k5rvs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777634937683-ptb7k5rvs</odePageId>
+      <odeBlockId>block-1777635049058-s3kr1us24</odeBlockId>
+      <blockName>Relacionamos tareas con los criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777634937683-ptb7k5rvs</odePageId>
+          <odeBlockId>block-1777635049058-s3kr1us24</odeBlockId>
+          <odeIdeviceId>idevice-1777635049055-1efs6m7ut</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Criterios de evaluacion 1.PNG" title="Criterios de evaluación" width="728" height="453" alt="Natalia Martos Redruejo" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777635049055-1efs6m7ut","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Criterios de evaluacion 1.PNG\" title=\"Criterios de evaluación\" width=\"728\" height=\"453\" alt=\"Natalia Martos Redruejo\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777635614698-4kgw4xpmu</odePageId>
+  <odeParentPageId>page-1777634937683-ptb7k5rvs</odeParentPageId>
+  <pageName>Guía Didáctica</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777635614698-4kgw4xpmu</odePageId>
+      <odeBlockId>block-1777635635538-p1htfrm9q</odeBlockId>
+      <blockName>Guía didáctica. Relacionamos los criterios de evaluación</blockName>
+      <iconName>perform</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777635614698-4kgw4xpmu</odePageId>
+          <odeBlockId>block-1777635635538-p1htfrm9q</odeBlockId>
+          <odeIdeviceId>idevice-1777635635538-7x4qbs17e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Criterios de evaluacion 2.PNG" title="Criterios de evaluación" width="665" height="388" alt="Natalia Martos Redruejo" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777635635538-7x4qbs17e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Criterios de evaluacion 2.PNG\" title=\"Criterios de evaluación\" width=\"665\" height=\"388\" alt=\"Natalia Martos Redruejo\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777633798797-051bru6qp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>UNIDAD DIDÁCTICA: ANALIZANDO LA LETRA PEQUENA ¡ESTÁS CONTRATADO!</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>UNIDAD DIDÁCTICA: ANALIZANDO LA LETRA PEQUENA ¡ESTÁS CONTRATADO!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>UNIDAD DIDÁCTICA: ANALIZANDO LA LETRA PEQUENA ¡ESTÁS CONTRATADO!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777633798797-051bru6qp</odePageId>
+      <odeBlockId>block-1777635767698-x06c3dm0a</odeBlockId>
+      <blockName>ANALIZANDO LA LETRA PEQUEÑA ¡ESTÁS CONTRATADO!</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777633798797-051bru6qp</odePageId>
+          <odeBlockId>block-1777635767698-x06c3dm0a</odeBlockId>
+          <odeIdeviceId>idevice-1777635767697-tqum3n2r7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Foto mujer bolso.PNG" title="Natalia Martos Redruejo" width="649" height="745" alt="Natalia Martos Redruejo" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777635767697-tqum3n2r7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Foto mujer bolso.PNG\" title=\"Natalia Martos Redruejo\" width=\"649\" height=\"745\" alt=\"Natalia Martos Redruejo\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momt2fb8-f3vdocdtk</odePageId>
+  <odeParentPageId>page-1777633798797-051bru6qp</odeParentPageId>
+  <pageName>1.  LA LEGISLACIÓN.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.  LA LEGISLACIÓN.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Unidad didáctica 6: Analizando la Letra Pequeña, ¡Estás contratado!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1.  LA LEGISLACIÓN.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momt2fb8-f3vdocdtk</odePageId>
+      <odeBlockId>block-1777648890435-05ujqzp5a</odeBlockId>
+      <blockName>Contenido DUA</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momt2fb8-f3vdocdtk</odePageId>
+          <odeBlockId>block-1777648890435-05ujqzp5a</odeBlockId>
+          <odeIdeviceId>idevice-1777648890434-iqy9br56e</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>El contrato de trabajo. DUA.</p></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><p>Un contrato de trabajo es un acuerdo entre empresa y trabajador, donde este último presta servicios remunerados bajo dirección ajena.</p>
+<p>Se formaliza por escrito o verbalmente, estableciendo condiciones claves como la jornada, salario y puesto. Sus principales modalidades incluyen contratos indefinidos y temporales .</p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-momt2fb8-f3vdocdtk</odePageId>
+      <odeBlockId>block-1777632216776-zc3lf37f8</odeBlockId>
+      <blockName>1. La legislación.</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momt2fb8-f3vdocdtk</odePageId>
+          <odeBlockId>block-1777632216776-zc3lf37f8</odeBlockId>
+          <odeIdeviceId>idevice-1777632216775-5niqniec5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="560" height="314" src="https://www.youtube.com/embed/nAn2Vrweo5A" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777632216775-5niqniec5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/nAn2Vrweo5A\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777633960791-1ns8og5lk</odePageId>
+  <odeParentPageId>page-1777633798797-051bru6qp</odeParentPageId>
+  <pageName>2. PASOS PARA CONTRATAR.</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. PASOS PARA CONTRATAR.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. PASOS PARA CONTRATAR.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777634010583-uwxrpsaj9</odePageId>
+  <odeParentPageId>page-1777633798797-051bru6qp</odeParentPageId>
+  <pageName>3. LOS CONTRATOS DE TRABAJO</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. LOS CONTRATOS DE TRABAJO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. LOS CONTRATOS DE TRABAJO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777634010583-uwxrpsaj9</odePageId>
+      <odeBlockId>block-1777636385915-2ibvq8x1g</odeBlockId>
+      <blockName>Tarea 3. Caso práctico. Informe sobre las modalidades de contratación. Criterio de evaluación asociado: c)</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777634010583-uwxrpsaj9</odePageId>
+          <odeBlockId>block-1777636385915-2ibvq8x1g</odeBlockId>
+          <odeIdeviceId>idevice-1777636385907-of1zclpl1</odeIdeviceId>
+          <odeIdeviceTypeName>casestudy</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-casestudy-container">
+  
+        <div class="caseStudyContent">            
+            <div class="CSP-Info mb-3">
+                
+            <dl>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+            </dl>
+            </div>
+            <div class="CSP-History mb-3" >
+                <p><a href="https://www.symbaloo.com/mix/contratos-de-trabajo-hare" title="">https://www.symbaloo.com/mix/contratos-de-trabajo-hare</a></p>
+<p><a href="https://www.diigo.com/user/nat230868?privacy=public" title="Natalia Martos Redruejo">https://www.diigo.com/user/nat230868?privacy=public</a></p>
+            </div>
+            <div class="CSP-Activities mb-3">
+                
+                <div class="CSP-ActivityDiv ">
+                    <div class="CSP-Activity mb-3">
+                        <p>En esta actividad tendrás que realizar un informe sobre las distintas modalidades de contratación.</p>
+<p>Para realizar la actividad utilizarás los recursos de Symbaloo y Digoo que se adjuntan en esta actividad</p>
+<p><br /></p>
+                    </div>
+                    
+                    <div class="iDevice_buttons feedback-button js-required">
+                        <input type="button" class="CSP-FeedbackBtn feedbacktooglebutton" value="Mostrar retroalimentación">
+                    </div>
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        <p>Criterio de Evaluación asociado c): Se han determinado las distintas modalidades de contratación laboral vigentes aplicables.</p>
+                    </div>
+                </div>
+            
+            </div>
+        </div>
+    
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1777636385907-of1zclpl1","typeGame":"Case study","history":"<p><a href=\"https://www.symbaloo.com/mix/contratos-de-trabajo-hare\" title=\"\">https://www.symbaloo.com/mix/contratos-de-trabajo-hare</a></p>\n<p><a href=\"https://www.diigo.com/user/nat230868?privacy=public\" title=\"Natalia Martos Redruejo\">https://www.diigo.com/user/nat230868?privacy=public</a></p>","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","activities":[{"activity":"<p>En esta actividad tendrás que realizar un informe sobre las distintas modalidades de contratación.</p>\n<p>Para realizar la actividad utilizarás los recursos de Symbaloo y Digoo que se adjuntan en esta actividad</p>\n<p><br /></p>","feedback":"<p>Criterio de Evaluación asociado c): Se han determinado las distintas modalidades de contratación laboral vigentes aplicables.</p>","buttonCaption":"Mostrar retroalimentación"}]}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777638898031-u879j10js</odePageId>
+  <odeParentPageId>page-1777634010583-uwxrpsaj9</odeParentPageId>
+  <pageName>3.1 Instrumento de evaluación.Rúbrica</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.1 Instrumento de evaluación.Rúbrica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.1 Instrumento de evaluación.Rúbrica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777638898031-u879j10js</odePageId>
+      <odeBlockId>block-1777638928947-7mghzhy4g</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777638898031-u879j10js</odePageId>
+          <odeBlockId>block-1777638928947-7mghzhy4g</odeBlockId>
+          <odeIdeviceId>idevice-1777637905281-klgbm8pll</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1777637905281-klgbm8pll%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20para%20evaluar%20un%20informe%20escrito%20y%20gr%E1fico%22%2C%22categories%22%3A%5B%22Tipos%20contratos%22%2C%22Cl%E1usulas%22%2C%22Derechos%22%5D%2C%22scores%22%3A%5B%224%20Excelente%22%2C%223%20Satisfactorio%22%2C%222%20Mejorable%22%2C%221%20Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Los%20identifica%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Identifica%20los%20principales%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Identifica%20los%20b%E1sicos%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20identifica%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Explica%20con%20precisi%F3n%20los%20requisitos%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Explica%20la%20mayor%EDa%20de%20los%20requisitos%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Conoce%20algunos%20requisitos%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Desconoce%20los%20requisitos%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Los%20diferencia%20claramente%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Conoce%20los%20derechos%20mas%20importantes%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Conoce%20algunos%20requisitos%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20distingue%20los%20derechos%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20para%20evaluar%20un%20informe%20escrito%20y%20gr%E1fico%22%2C%22categories%22%3A%5B%22Tipos%20contratos%22%2C%22Cl%E1usulas%22%2C%22Derechos%22%5D%2C%22scores%22%3A%5B%224%20Excelente%22%2C%223%20Satisfactorio%22%2C%222%20Mejorable%22%2C%221%20Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Los%20identifica%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Identifica%20los%20principales%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Identifica%20los%20b%E1sicos%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20identifica%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Explica%20con%20precisi%F3n%20los%20requisitos%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Explica%20la%20mayor%EDa%20de%20los%20requisitos%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Conoce%20algunos%20requisitos%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Desconoce%20los%20requisitos%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Los%20diferencia%20claramente%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Conoce%20los%20derechos%20mas%20importantes%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Conoce%20algunos%20requisitos%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20distingue%20los%20derechos%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22author%22%3A%22CEDEC%22%2C%22author-url%22%3A%22http%3A//cedec.intef.es/%22%2C%22license%22%3A%22CC-BY-SA%22%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><p class="exe-rubrics-authorship"><a href="http://cedec.intef.es/" target="_blank" class="author" rel="noopener">CEDEC</a>. <span class="title"><em>Rúbrica para evaluar un informe escrito y gráfico</em></span> <span class="license">(<a href="https://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons CC-BY-SA">CC BY-SA</a>)</span></p><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777648131359-3bm1op0za</odePageId>
+  <odeParentPageId>page-1777633798797-051bru6qp</odeParentPageId>
+  <pageName>4. EL PRODUCTO FINAL. EL RETO</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. EL PRODUCTO FINAL. EL RETO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777648131359-3bm1op0za</odePageId>
+      <odeBlockId>block-1777648541154-184a8pxgc</odeBlockId>
+      <blockName>4. EL PRODUCTO FINAL. EL RETO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777648131359-3bm1op0za</odePageId>
+          <odeBlockId>block-1777648541154-184a8pxgc</odeBlockId>
+          <odeIdeviceId>idevice-1777648541153-bnbsyi48g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><img src="{{context_path}}/content/resources/Sesion 4 temporalidad.PNG" title="Natalia Martos Redruejo" width="482" height="407" alt="Natalia Martos Redruejo" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777648541153-bnbsyi48g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/Sesion 4 temporalidad.PNG\" title=\"Natalia Martos Redruejo\" width=\"482\" height=\"407\" alt=\"Natalia Martos Redruejo\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777646917724-xyeycmaoj</odePageId>
+  <odeParentPageId>page-1777648131359-3bm1op0za</odeParentPageId>
+  <pageName>4.1 .Repaso los conceptos</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.1 .Repaso los conceptos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.1 .Repaso los conceptos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777646917724-xyeycmaoj</odePageId>
+      <odeBlockId>block-1777647543523-wt8lnx6hv</odeBlockId>
+      <blockName>Antes de hacer el producto final repasamos los conceptos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777646917724-xyeycmaoj</odePageId>
+          <odeBlockId>block-1777647543523-wt8lnx6hv</odeBlockId>
+          <odeIdeviceId>idevice-1777647543509-ogz14lair</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Kahoot.PNG" title="Kahoot" width="624" height="111" alt="Kahoot Repasamos los conceptos " /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777647543509-ogz14lair","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Kahoot.PNG\" title=\"Kahoot\" width=\"624\" height=\"111\" alt=\"Kahoot Repasamos los conceptos \" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777634214430-ub4me01ac</odePageId>
+  <odeParentPageId>page-1777648131359-3bm1op0za</odeParentPageId>
+  <pageName>4.2. Producto final.</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.2. Producto final.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.2. Producto final.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777634214430-ub4me01ac</odePageId>
+      <odeBlockId>block-1777640003453-qatoj2cig</odeBlockId>
+      <blockName>Caso práctico</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777634214430-ub4me01ac</odePageId>
+          <odeBlockId>block-1777640003453-qatoj2cig</odeBlockId>
+          <odeIdeviceId>idevice-1777640003452-ou6leyjzs</odeIdeviceId>
+          <odeIdeviceTypeName>casestudy</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-casestudy-container">
+  
+        <div class="caseStudyContent">            
+            <div class="CSP-Info mb-3">
+                
+            <dl>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+            </dl>
+            </div>
+            <div class="CSP-History mb-3" >
+                <p><img src="{{context_path}}/content/resources/Foto chico ordenador industria.PNG" title="Natalia Martos" width="225" height="254" alt="Natalia Martos" style="float: right;" /></p>
+            </div>
+            <div class="CSP-Activities mb-3">
+                
+                <div class="CSP-ActivityDiv ">
+                    <div class="CSP-Activity mb-3">
+                        <p>Realiza el siguiente caso práctico:<img src="{{context_path}}/content/resources/CASO PRACTICO CONTRATACION.PNG" title="Caso practico contratacion" width="488" height="332" alt="Natalia Martos Redruejo" /></p>
+                    </div>
+                    
+                    <div class="iDevice_buttons feedback-button js-required">
+                        <input type="button" class="CSP-FeedbackBtn feedbacktooglebutton" value="Mostrar retroalimentación">
+                    </div>
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        <p><a href="https://www.canva.com/design/DAHIJeZD9Zk/EJvLz0byKdMRvm-WRh66Tw/edit" title="">https://www.canva.com/design/DAHIJeZD9Zk/EJvLz0byKdMRvm-WRh66Tw/edit</a></p>
+                    </div>
+                </div>
+            
+            </div>
+        </div>
+    
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1777640003452-ou6leyjzs","typeGame":"Case study","history":"<p><img src=\"{{context_path}}/content/resources/Foto chico ordenador industria.PNG\" title=\"Natalia Martos\" width=\"225\" height=\"254\" alt=\"Natalia Martos\" style=\"float: right;\" /></p>","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","activities":[{"activity":"<p>Realiza el siguiente caso práctico:<img src=\"{{context_path}}/content/resources/CASO PRACTICO CONTRATACION.PNG\" title=\"Caso practico contratacion\" width=\"488\" height=\"332\" alt=\"Natalia Martos Redruejo\" /></p>","feedback":"<p><a href=\"https://www.canva.com/design/DAHIJeZD9Zk/EJvLz0byKdMRvm-WRh66Tw/edit\" title=\"\">https://www.canva.com/design/DAHIJeZD9Zk/EJvLz0byKdMRvm-WRh66Tw/edit</a></p>","buttonCaption":"Mostrar retroalimentación"}]}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777643009118-syd0z7srr</odePageId>
+  <odeParentPageId>page-1777648131359-3bm1op0za</odeParentPageId>
+  <pageName>4.3. Instrumento de evaluación</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.3. Instrumento de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.3. Instrumento de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777643009118-syd0z7srr</odePageId>
+      <odeBlockId>block-1777643009119-u24r91uav</odeBlockId>
+      <blockName>Instrumento de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777643009118-syd0z7srr</odePageId>
+          <odeBlockId>block-1777643009119-u24r91uav</odeBlockId>
+          <odeIdeviceId>idevice-1777643009119-3m8ikcvtm</odeIdeviceId>
+          <odeIdeviceTypeName>casestudy</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-casestudy-container">
+  
+        <div class="caseStudyContent">            
+            <div class="CSP-Info mb-3">
+                
+            <dl>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+            </dl>
+            </div>
+            <div class="CSP-History mb-3" >
+                <p><a href="https://www.canva.com/design/DAHIJeZD9Zk/EJvLz0byKdMRvm-WRh66Tw/edit" title="">https://www.canva.com/design/DAHIJeZD9Zk/EJvLz0byKdMRvm-WRh66Tw/edit</a><img src="{{context_path}}/content/resources/Foto chico ordenador industria.PNG" title="Natalia Martos" width="131" height="148" alt="Natalia Martos" style="float: right;" /></p>
+            </div>
+            <div class="CSP-Activities mb-3">
+                
+                <div class="CSP-ActivityDiv ">
+                    <div class="CSP-Activity mb-3">
+                        <p><strong>Criterio de evaluación:</strong> e) Se ha cumplimentado la documentación que se genere en cada una de las fases del proceso de contratación.</p>
+<p><strong>Instrumento de evaluación</strong>: Diana de Evaluación</p>
+                    </div>
+                    
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        
+                    </div>
+                </div>
+            
+            </div>
+        </div>
+    
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1777643009119-3m8ikcvtm","typeGame":"Case study","history":"<p><a href=\"https://www.canva.com/design/DAHIJeZD9Zk/EJvLz0byKdMRvm-WRh66Tw/edit\" title=\"\">https://www.canva.com/design/DAHIJeZD9Zk/EJvLz0byKdMRvm-WRh66Tw/edit</a><img src=\"{{context_path}}/content/resources/Foto chico ordenador industria.PNG\" title=\"Natalia Martos\" width=\"131\" height=\"148\" alt=\"Natalia Martos\" style=\"float: right;\" /></p>","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","activities":[{"activity":"<p><strong>Criterio de evaluación:</strong> e) Se ha cumplimentado la documentación que se genere en cada una de las fases del proceso de contratación.</p>\n<p><strong>Instrumento de evaluación</strong>: Diana de Evaluación</p>","feedback":"","buttonCaption":"Mostrar retroalimentación"}]}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
